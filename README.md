@@ -13,3 +13,4 @@ Inicializar: receber como parâmetros a capacidade do elevador e o total de anda
 
 **Descer**: descer um andar (não deve descer se já estiver no térreo);
 
+Leia a documentação completa [Aqui](http://elevadorocean.azurewebsites.net/)
